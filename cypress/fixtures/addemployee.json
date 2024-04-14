@@ -1,0 +1,30 @@
+[
+    {
+        "firstname": "Gikku",
+        "LastName" :"Philip",
+        "EmployeeID":" 012"
+    },
+    
+    {
+        "firstname": "Jack",
+        "LastName" :"Roberts",
+        "EmployeeID":" 013"
+    },
+     
+    {
+        "firstname": "Maryann",
+        "LastName" :"Roberts",
+        "EmployeeID":" 014"
+    },
+
+    {
+        "firstname": "Maria",
+        "LastName" :"ANN",
+        "EmployeeID":" 015"
+    },
+    {
+        "firstname": "Twinkle",
+        "LastName" :"Peter",
+        "EmployeeID":" 016"
+    }
+]
